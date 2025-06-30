@@ -1,0 +1,15 @@
+Direktori ini berisi aset-aset aplikasi seperti gambar, ikon, dan font.
+
+Aset yang dibutuhkan:
+- logo-placeholder.png
+- default-avatar.png
+- pdf-icon.png
+- image-icon.png
+- video-icon.png
+- embed-icon.png
+- splash.png
+- icon.png
+- adaptive-icon.png
+- favicon.png
+
+Catatan: Ganti file placeholder ini dengan aset sebenarnya saat pengembangan. 
